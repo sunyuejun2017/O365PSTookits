@@ -3,5 +3,5 @@
 
 
 1. AADLogin
-   --UserContentLoginSamples 用户交互登录示例
+   * UserContentLoginSamples 用户交互登录示例
 

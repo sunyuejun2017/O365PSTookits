@@ -1,0 +1,8 @@
+{
+  "AppId": {
+    "ClientId": "11e14c80-f0c8-4efb-abf1-c0cb12bd1525",
+    "ClientSecret": "lbYzDKhD160zV/MYHaeWEYBwpNrTivIdg/6KeRLIZdc=",
+    "RedirectUrl": "http://51o365app.com",
+    "ResourceUrl": "https://microsoftgraph.chinacloudapi.cn"
+  }
+}
